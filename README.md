@@ -1,1 +1,1 @@
-# Just a mod I decided to quickly make to add custom cosmetics (and a few trolls) customized towards my friends.
+A mod designed with silliness, memes, and maybe a few jumpscares. This is held together by APIs, and Hopes & Dreams, but it works, kinda.
