@@ -1,8 +1,8 @@
 {
-    "name": "Custom_Discord_Things",
-    "version_number": "1.3.4",
-    "website_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D",
-    "description": "I made cause I wanted to make something for my friends who are addicted to this game.",
+    "name": "Lethal_Stupidity__New_Hires_and_Sounds",
+    "version_number": "2.1.0",
+    "website_url": "https://github.com/HoneySealGamer/Lethal-Stupidity",
+    "description": "Since this game isn't dying anytime soon, I may as well try to make something of decent quality.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
 		"notnotnotswipez-MoreCompany-1.8.1",
