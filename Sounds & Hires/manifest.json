@@ -1,0 +1,15 @@
+{
+    "name": "Lethal_Stupidity__New_Hires_and_Sounds",
+    "version_number": "2.1.0",
+    "website_url": "https://github.com/HoneySealGamer/Lethal-Stupidity",
+    "description": "Since this game isn't dying anytime soon, I may as well try to make something of decent quality.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"notnotnotswipez-MoreCompany-1.8.1",
+		"Clementinise-CustomSounds-2.3.2",
+		"no00ob-LCSoundTool-1.5.1",
+		"x753-More_Suits-1.4.3",
+		"BunyaPineTree-ModelReplacementAPI-2.4.2",
+		"HGG-JigglePhysicsPlugin-1.1.2"
+    ]
+}
